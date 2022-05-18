@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ltechindustries
+- 👋 Hi, I’m Lalith founder of L-techindustries
 - 👀 I’m a app developerand web designer
 - 🌱 I’m currently learning Java
 - 📫 support me on youtube https://www.youtube.com/channel/UC-mI8WKvZg-FNJcLcdPXH7w

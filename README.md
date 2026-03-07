@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science Engineering Student | Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Full+Stack+Developer;Embedded+Systems+Explorer;AI+and+Tech+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Full+Stack+Developer;Embedded+Systems+Explorer;AI+Enthusiast;Building+Cool+Projects&center=true&width=500&height=45">
 </p>
 
 ---
@@ -10,16 +10,16 @@
 # 🧑‍💻 About Me
 
 🎓 Computer Science Engineering Student
-💻 Passionate about **Software Development & Embedded Systems**
-🚀 Building innovative projects with **Web + Microcontrollers**
-🧠 Currently working on **8051 Block Programming Environment**
+💡 Interested in **AI, Web Development & Embedded Systems**
+🚀 Currently building **8051 Block Programming Environment**
+⚡ Love building innovative tech projects
 
 ---
 
 # 🎬 Coding Animation
 
 <p align="center">
-<img src="https://assets2.lottiefiles.com/packages/lf20_w51pcehl.json" width="300">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 </p>
 
 ---
@@ -56,11 +56,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,firebase" />
 </p>
 
-* MongoDB Compass
-* Tinkercad
-* Antigravity IDE
-* Sketchware
-* MIT App Inventor
+MongoDB Compass • Tinkercad • Antigravity IDE • Sketchware • MIT App Inventor
 
 ---
 
@@ -76,10 +72,26 @@
 
 ---
 
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltechindustries&theme=tokyo-night"/>
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Ltechindustries&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ltechindustries&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -92,11 +104,19 @@
 
 ---
 
-# 🏆 Achievements
+# 🎮 Matrix Animation
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ltechindustries&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+🔹 8051 Block Programming Environment
+🔹 Idle-Time Learning Cache AI Project
+🔹 VIT Student Networking App
 
 ---
 

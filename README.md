@@ -1,24 +1,32 @@
 <h1 align="center">Hi 👋, I'm Lalith Raghavendra</h1>
-<h3 align="center">💻 Developer | AI & Embedded Systems Enthusiast</h3>
+<h3 align="center">💻 Computer Science Engineering Student | Developer</h3>
 
 <p align="center">
-Building cool projects with Web, AI and Microcontrollers
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Full+Stack+Developer;Embedded+Systems+Explorer;AI+and+Tech+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 About Me
 
-- 🎓 Student Developer
-- 🤖 Interested in **AI, Web Development & Embedded Systems**
-- ⚡ Currently building **8051 Block Programming Environment**
-- 🌱 Always learning new technologies
+🎓 Computer Science Engineering Student
+💻 Passionate about **Software Development & Embedded Systems**
+🚀 Building innovative projects with **Web + Microcontrollers**
+🧠 Currently working on **8051 Block Programming Environment**
 
 ---
 
-# 🛠️ Tech Stack
+# 🎬 Coding Animation
 
-### 💻 Programming Languages
+<p align="center">
+<img src="https://assets2.lottiefiles.com/packages/lf20_w51pcehl.json" width="300">
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css" />
@@ -26,7 +34,7 @@ Building cool projects with Web, AI and Microcontrollers
 
 ---
 
-### 🌐 Web Development
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
@@ -34,7 +42,7 @@ Building cool projects with Web, AI and Microcontrollers
 
 ---
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -42,17 +50,17 @@ Building cool projects with Web, AI and Microcontrollers
 
 ---
 
-### ⚙️ Tools & Platforms
+# 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,firebase" />
 </p>
 
-- MongoDB Compass  
-- Tinkercad  
-- Antigravity IDE  
-- Sketchware  
-- MIT App Inventor  
+* MongoDB Compass
+* Tinkercad
+* Antigravity IDE
+* Sketchware
+* MIT App Inventor
 
 ---
 
@@ -60,32 +68,36 @@ Building cool projects with Web, AI and Microcontrollers
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ltechindustrie&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ltechindustries&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltechindustrie&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltechindustries&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Ltechindustrie&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Ltechindustries&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 Contribution Snake
 
-<p align="left">
-
-<a href="https://github.com/Ltechindustrie">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ltechindustries/Ltechindustries/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-⭐ From [Ltechindustrie](https://github.com/Ltechindustrie)
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ltechindustries&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+⭐ From <a href="https://github.com/Ltechindustries">Ltechindustries</a>

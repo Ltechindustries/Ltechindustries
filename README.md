@@ -16,7 +16,6 @@
 
 ---
 
-# 🎬 Coding Animation
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
@@ -104,7 +103,7 @@ MongoDB Compass • Tinkercad • Antigravity IDE • Sketchware • MIT App Inv
 
 ---
 
-# 🎮 Matrix Animation
+# 
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
@@ -114,9 +113,15 @@ MongoDB Compass • Tinkercad • Antigravity IDE • Sketchware • MIT App Inv
 
 # 🚀 Featured Projects
 
-🔹 8051 Block Programming Environment
-🔹 Idle-Time Learning Cache AI Project
-🔹 VIT Student Networking App
+Go-Game AI
+
+8051 Block Programming
+
+Online Canteen React App
+
+Finance Tracker
+
+Moodflix Frontend
 
 ---
 

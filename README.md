@@ -63,9 +63,9 @@ MongoDB Compass • Tinkercad • Antigravity IDE • Sketchware • MIT App Inv
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=L-Techindustries&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ltechindustries&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Tech Industries&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltechindustries&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 

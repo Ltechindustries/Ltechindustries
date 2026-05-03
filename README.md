@@ -83,14 +83,6 @@ MongoDB Compass • Tinkercad • Antigravity IDE • Sketchware • MIT App Inv
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Ltechindustries/Ltechindustries/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 # 
 
 <p align="center">

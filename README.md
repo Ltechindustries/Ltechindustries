@@ -52,7 +52,7 @@
 # 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=vscode,firebase,antigravity" />
 </p>
 
 MongoDB Compass • Tinkercad • Antigravity IDE • Sketchware • MIT App Inventor
